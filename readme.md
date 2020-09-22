@@ -4,21 +4,14 @@
 
 Project to quickly get something working in [p5.js](https://p5js.org/) and [typescript](https://www.typescriptlang.org/)
 
-## Demo
-
-## **[Click here for Demo](https://gaweph.github.io/p5-typescript-starter/)**
-
-![Demo](p5-typescript-demo.png?raw=true "Demo")
-
-This is based on the [Regular Polygon](https://p5js.org/examples/form-regular-polygon.html) sketch available in the p5js examples
-
 ## Getting Started
 
 ### Installing
 
 ```
-git clone https://github.com/Gaweph/p5-typescript-starter.git
+git clone https://github.com/atipezda/p5-typescript-starter.git
 ```
+forked from https://github.com/Gaweph/p5-typescript-starter.git
 
 ```
 npm install
